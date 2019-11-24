@@ -1532,29 +1532,9 @@ select.selectpicker {
 
 /*--------------------------------
 
-nucleo-icons Web Font - built using nucleoapp.com
-License - nucleoapp.com/license/
 
--------------------------------- */
-@font-face {
-  font-family: 'nucleo-icons';
-  src: url("../fonts/nucleo-icons.eot");
-  src: url("../fonts/nucleo-icons.eot") format("embedded-opentype"), url("../fonts/nucleo-icons.woff2") format("woff2"), url("../fonts/nucleo-icons.woff") format("woff"), url("../fonts/nucleo-icons.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal; }
 
-/*------------------------
-	base class definition
--------------------------*/
-.nc-icon {
-  display: inline-block;
-  font: normal normal normal 14px/1 'nucleo-icons';
-  font-size: inherit;
-  speak: none;
-  text-transform: none;
-  /* Better Font Rendering */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; }
+
 
 /*------------------------
   change icon size
@@ -7512,22 +7492,6 @@ video {
 .pswp__ui--over-close .pswp__button--close {
   opacity: 1; }
 
-.pswp__button,
-.pswp__button--arrow--left:before,
-.pswp__button--arrow--right:before {
-  background: url(../img/photo_swipe/default-skin.png) 0 0 no-repeat;
-  background-size: 264px 88px;
-  width: 44px;
-  height: 44px; }
-
-@media (-webkit-min-device-pixel-ratio: 1.1), (-webkit-min-device-pixel-ratio: 1.09375), (min-resolution: 105dpi), (min-resolution: 1.1dppx) {
-  .pswp--svg .pswp__button,
-  .pswp--svg .pswp__button--arrow--left:before,
-  .pswp--svg .pswp__button--arrow--right:before {
-    background-image: url(../img/photo_swipe/default-skin.svg); }
-  .pswp--svg .pswp__button--arrow--left,
-  .pswp--svg .pswp__button--arrow--right {
-    background: 0 0; } }
 
 .pswp__button--close {
   background-position: 0 -44px; }
@@ -10393,8 +10357,7 @@ body {
   .presentation-page .section-examples {
     padding-top: 0 !important;
     margin-top: 10px !important; }
-  .presentation-page .section-icons .icons-nucleo .nc-icon:not(.ninth-left-icon):not(.seventh-left-icon):not(.third-left-icon) {
-    display: none !important; }
+ 
   .bootstrap-datetimepicker-widget {
     visibility: visible !important; }
   .presentation-page .fog-low {
@@ -10856,31 +10819,9 @@ body {
   .presentation-page .section-content .image-container .area-img {
     max-width: 170px !important; } }
 
-/*--------------------------------
 
-nucleo-icons Web Font - built using nucleoapp.com
-License - nucleoapp.com/license/
 
--------------------------------- */
-@font-face {
-  font-family: 'nucleo-icons';
-  src: url("../fonts/nucleo-icons.eot");
-  src: url("../fonts/nucleo-icons.eot") format("embedded-opentype"), url("../fonts/nucleo-icons.woff2") format("woff2"), url("../fonts/nucleo-icons.woff") format("woff"), url("../fonts/nucleo-icons.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal; }
 
-/*------------------------
-	base class definition
--------------------------*/
-.nc-icon {
-  display: inline-block;
-  font: normal normal normal 14px/1 'nucleo-icons';
-  font-size: inherit;
-  speak: none;
-  text-transform: none;
-  /* Better Font Rendering */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; }
 
 /*------------------------
   change icon size
@@ -11325,16 +11266,7 @@ License - nucleoapp.com/license/
 .headroom--unpinned {
   top: -80px; }
 
-/*! nouislider - 14.0.2 - 6/28/2019 */
-/* Functional styling;
- * These styles are required for noUiSlider to function.
- * You don't need to change these rules to apply your design.
- */
-/*
 
-This file was modified by Creative-Tim
-
-*/
 .noUi-target,
 .noUi-target * {
   -webkit-touch-callout: none;
@@ -11948,16 +11880,7 @@ td.rdtYear:hover {
     flex: 0 0 25%;
     max-width: 25%; } }
 
-/**
-* React Select v1.0.0-rc.10
-* ============
-* Created by Jed Watson and Joss Mackison for KeystoneJS, https://www.keystonejs.com/
-* https://twitter.com/jedwatson https://twitter.com/jossmackison https://twitter.com/keystonejs
-* MIT License: https://github.com/JedWatson/react-select
-*/
-/*
-This file was modified entirely by Creative Tim for React-Select v2.0.0
-*/
+
 .react-select .react-select__menu {
   max-width: 94%;
   width: 94%;
@@ -12228,10 +12151,7 @@ This file was modified entirely by Creative Tim for React-Select v2.0.0
   cursor: pointer;
   font-weight: bold; }
 
-.react-tagsinput-tag a::before {
-  font-family: 'nucleo-icons';
-  content: "\ea4f";
-  padding: 0px 2px; }
+
 
 .react-tagsinput-tag a {
   cursor: pointer;

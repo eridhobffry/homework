@@ -1,0 +1,180 @@
+
+.card-product .card-body .card-description .name {
+    margin-top: 20px; }
+  
+  .card-product .card-body .card-text {
+    display: inline-block;
+    margin-right: 65px; }
+  
+  .card-product .card-body .actions h5 {
+    color: #403D39; }
+  
+  .card-product .image-plain {
+    height: 0;
+    margin-top: 110px; }
+  
+  .card-product .author {
+    text-align: center;
+    text-transform: none;
+    margin-top: -65px; }
+    .card-product .author .card-title {
+      color: #403D39;
+      line-height: 24px;
+      margin-bottom: 5px !important;
+      margin-top: 0; }
+      .card-product .author .card-title small {
+        color: #ccc; }
+    .card-product .author .card-category {
+      margin-bottom: 15px; }
+  
+  .card-product .card-img-top {
+    background-color: transparent;
+    box-shadow: none !important; }
+  
+  .card-product .btn-just-icon.btn-link {
+    padding: 0 !important; }
+
+    .card.card-blog .card-image .img,
+    .card.card-testimonial .card-description + .card-title .card-image .img {
+      border-radius: 12px; }
+    .card.card-blog .card-image .card-title,
+    .card.card-testimonial .card-description + .card-title .card-image .card-title {
+      text-align: center; }
+  .card.card:not(.card-plain) .card-image .img {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px; }
+
+
+.card-image.card-big-shadow {
+    max-width: 100%; }
+  
+  .card-image .card {
+    background-size: cover;
+    min-height: 430px;
+    width: 100%; }
+  
+  .card-image .img-raised {
+    margin-top: -20px; }
+
+    .card-blog .card-image + .category {
+        margin-top: 20px; }
+        
+  
+.card-image .details-center .author {
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    margin: 20px auto 0; }
+    .card-image .details-center .author img {
+      position: absolute;
+      top: 0;
+      left: -50px; }
+    .card-image .details-center .author .name {
+      color: #66615b;
+      font-size: 1.1em;
+      font-weight: bold;
+      line-height: 1.15;
+      max-width: 11em;
+      overflow: hidden;
+      padding-top: 3px;
+      text-overflow: ellipsis; }
+  
+  .card-image .card-body {
+    min-height: 50px;
+    padding: 0 4px 0.5em;
+    position: relative; }
+    .card-image .card-body .author img {
+      height: 40px;
+      width: 40px;
+      margin-bottom: 5px;
+      border-radius: 50%; }
+    .card-image .card-body .name {
+      color: #66615b;
+      font-size: 1.2em;
+      font-weight: bold;
+      line-height: 1.15;
+      max-width: 14em;
+      overflow: hidden;
+      padding-top: 3px;
+      text-overflow: ellipsis; }
+      .card-image .card-body .name:hover, .card-image .card-body .name:active, .card-image .card-body .name:focus {
+        color: #403D39; }
+    .card-image .card-body .meta {
+      color: #A49E9E;
+      font-size: 0.8em; }
+    .card-image .card-body .actions {
+      float: right;
+      font-size: 0.875em;
+      line-height: 2.6;
+      position: absolute;
+      right: 4px;
+      top: 36px;
+      z-index: 1; }
+      .card-image .card-body .actions .btn.btn-simple {
+        padding-left: 2px; }
+  
+  .card-image .card-body-center {
+    text-align: center; }
+    .card-image .card-body-center .author {
+      position: relative;
+      display: inline-block;
+      text-align: left;
+      margin: 20px auto 0; }
+      .card-image .card-body-center .author img {
+        position: absolute;
+        left: 0;
+        top: 0; }
+      .card-image .card-body-center .author .text {
+        padding-left: 50px; }
+
+        .card.card-blog [class*=col-] .card-image .img {
+            border-radius: 12px; }
+            
+
+.img-rounded {
+    border-radius: 12px;
+    transition: opacity 0.5s ease 0s;
+    max-width: 100%; }
+    .example-page .img-rounded {
+        margin: 50px 0 20px; }
+        
+
+        .card .card-description {
+            color: #9A9A9A;
+            margin-bottom: 5px;
+            margin-top: 15px; }
+
+            .card.card-testimonial .card-description + .card-title {
+                margin-top: 30px; }
+                .card.card-blog .card-image .img,
+                .card.card-testimonial .card-description + .card-title .card-image .img {
+                  border-radius: 12px; }
+                .card.card-blog .card-image .card-title,
+                .card.card-testimonial .card-description + .card-title .card-image .card-title {
+                  text-align: center; }
+
+                  .card .card-body .card-description + .card-footer {
+                    padding-top: 10px; }
+
+                    .card[data-background="image"] .card-description, .card[data-background="color"] .card-description, .card[data-color] .card-description {
+                        color: rgba(255, 255, 255, 0.8); }
+
+                        .card-background .category,
+  .card-background .card-description,
+  .card-background small {
+    color: #fff; }
+
+    .card-pricing.card-background-image .card-description {
+        color: #FFFFFF !important; }
+
+        .card-product .card-body .card-description .name {
+            margin-top: 20px; }
+
+            .card-testimonial .card-body .card-description {
+                font-style: italic; }
+
+                .section-image .card-user.card-plain .card-title,
+.section-image .card-user.card-plain .card-description {
+  color: #FFFFFF; }
+
+  

@@ -5,6 +5,7 @@ import * as serviceWorker from './serviceWorker';
 // styles
 import "./assets/css/bootstrap.min.css";
 import "./assets/css/paper-kit.css";
+// import "./assets/css/style.css";
 
 import Product from "./views/product.js"
 
